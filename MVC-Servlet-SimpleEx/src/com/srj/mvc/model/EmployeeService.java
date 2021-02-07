@@ -8,6 +8,9 @@ public class EmployeeService {
 		return Arrays.asList(
 				new Employee(101, "Suraj", "Mane"),
 				new Employee(102, "Tony", "Stark"),
-				new Employee(103, "Thor", "Shinde"));
+				new Employee(103, "Thor", "Shinde"),
+				new Employee(104, "swati", "Mane"),
+				new Employee(104, "shweta", "Mane")
+				);
 	}
 }
